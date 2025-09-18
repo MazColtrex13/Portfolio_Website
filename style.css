@@ -28,7 +28,7 @@ header .btn {
     height: 400px;
     object-fit: cover;
     border: 3px solid white; 
-    box-shadow: 0 0 15px rgba(97, 58, 224, 0.8); /* Efek glow */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.8); /* Efek glow */
 }
 
 
